@@ -40,6 +40,7 @@ class MovieDetail extends Component {
     console.log("Data", Data.Title);
     return (
       <>
+        <NavBar />
         <div className="container-fluid">
           <div className="row">
             <div className="col-sm-4 mt-3">
